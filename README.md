@@ -7,6 +7,8 @@
 
 This repository contains both the **frontend and backend as submodules**, ensuring seamless integration in a single repository.
 
+📹 **Video Demo:** [Watch here](https://drive.google.com/file/d/1C6J6vIS4rPu9XCqIrpM7_eMn7zwEUzUc/view?usp=sharing)
+
 ---
 
 ## **Key Features**
